@@ -1,0 +1,40 @@
+*{
+  background-color: rgb(207, 202, 202);
+}
+header{
+  display: flex; justify-content: space-evenly; align-items: center;
+  flex-wrap: wrap;
+}
+
+#date{
+ font-size: 50px;
+  
+}
+#year{
+  
+  font-size: 25px;
+ }
+#month{
+  font-size: 25px;
+}
+#day{
+  font-size: 25px;
+  
+}
+#set{
+
+  display: flex; justify-content: center; align-items: center;
+  
+}
+#he{
+ 
+  padding: 1%;
+  border-radius: 5px;
+  
+}
+
+
+footer{
+  display: flex; justify-content: center; align-items: center;
+  width: 5;
+}
